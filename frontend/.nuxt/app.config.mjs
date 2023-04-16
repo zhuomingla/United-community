@@ -1,5 +1,5 @@
 
-import { defuFn } from 'D:/zm/again/United-community/my-sidebase-experiment/node_modules/defu/dist/defu.mjs'
+import { defuFn } from 'D:/zm/again/United-community/frontend-test/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
